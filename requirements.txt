@@ -1,0 +1,8 @@
+
+```text
+requests
+pandas
+sentence-transformers
+umap-learn
+matplotlib
+gradio
